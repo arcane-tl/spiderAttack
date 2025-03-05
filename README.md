@@ -7,4 +7,4 @@ A fun game built with Pygame using Grok 3!
 - Run: `python main.py`
 
 ### Browser version
-- Navigate to https://arcane-tl.github.io/spiderAttack/build/web/index.html and play the web-version!
+- Navigate to https://arcane-tl.github.io/spiderAttack/src/build/web/index.html and play the web-version!
